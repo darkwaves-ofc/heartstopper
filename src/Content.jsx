@@ -69,13 +69,13 @@ function Content() {
               <img width={30} height={30} src="/heartstopper/pump-fun.svg" />
             </a>
             <a
-              href="https://github.com/ReemanS"
+              href="https://t.me/notajumpscare"
               className="hover:scale-110 active:scale-95 transition duration-200"
             >
               <img width={30} height={30} src="/heartstopper/telegram.svg" />
             </a>
             <a
-              href="https://github.com/ReemanS"
+              href="https://x.com/Notajumpscare"
               className="hover:scale-110 active:scale-95 transition duration-200"
             >
               <img width={30} height={30} src="/heartstopper/twitter.svg" />
