@@ -63,7 +63,7 @@ function Content() {
         {!isJumpscareVisible && (
           <div className="fixed w-full bottom-0 gap-4 pb-8 flex flex-row justify-center items-center">
             <a
-              href="https://github.com/ReemanS"
+              href="https://pump.fun/"
               className="hover:scale-110 active:scale-95 transition duration-200"
             >
               <img width={30} height={30} src="/heartstopper/pump-fun.svg" />
