@@ -66,19 +66,19 @@ function Content() {
               href="https://pump.fun/board"
               className="hover:scale-110 active:scale-95 transition duration-200"
             >
-              <img width={30} height={30} src="/heartstopper/pump-fun.svg" />
+              <img width={30} height={30} src="/pump-fun.svg" />
             </a>
             <a
               href="https://t.me/notajumpscare"
               className="hover:scale-110 active:scale-95 transition duration-200"
             >
-              <img width={30} height={30} src="/heartstopper/telegram.svg" />
+              <img width={30} height={30} src="/telegram.svg" />
             </a>
             <a
               href="https://x.com/Notajumpscare"
               className="hover:scale-110 active:scale-95 transition duration-200"
             >
-              <img width={30} height={30} src="/heartstopper/twitter.svg" />
+              <img width={30} height={30} src="/twitter.svg" />
             </a>
           </div>
         )}
